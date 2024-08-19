@@ -11,11 +11,11 @@ This project focuses on developing a comprehensive and interactive dashboard usi
 - Analyze Customer Data: Understand customer demographics and behavior through segmentation by age group and income level.
 - Identify Trends: Observe changes in key metrics over time to identify patterns and inform business strategies.
 
-Data Sources:
+### Data Sources:
 - Customer Data: Sourced from a SQL database, including customer demographics and account details.
 - Transaction Data: Weekly transaction records, including fees, transaction amounts, and interest earned.
 
-Steps Followed:
+### Steps Followed:
 
 1) Data Collection: 
 
@@ -54,6 +54,6 @@ Steps Followed:
     - Activation rate: 57.5%
     - Delinquency rate: 6.06%
   
-Conclusion:
+### Conclusion:
 
 - The Credit Card Analysis Dashboard provides an effective tool for stakeholders to monitor and analyze key performance metrics in real-time. By leveraging the insights generated from this dashboard, stakeholders can make informed decisions to enhance credit card operations, optimize customer engagement, and improve overall financial performance.
